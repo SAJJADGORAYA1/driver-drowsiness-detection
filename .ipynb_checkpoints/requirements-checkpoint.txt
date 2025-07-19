@@ -1,8 +1,0 @@
-streamlit
-opencv-python
-imutils
-numpy
-scipy
-dlib
-pygame
-\
