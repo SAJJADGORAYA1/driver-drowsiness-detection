@@ -50,7 +50,7 @@ The detection process includes the following stages:
 
 ## Simulation / Running
 
-### 🖥️ OpenCV CLI Version
+### OpenCV CLI Version
 
 Run the script via terminal:
 
@@ -62,7 +62,7 @@ This version opens a webcam window, displays eye contours, and prints alert flag
 
 ---
 
-### 🌐 Streamlit GUI Version
+### Streamlit GUI Version
 
 Run in browser using:
 
@@ -124,4 +124,4 @@ This can be imported into both the Streamlit app and the OpenCV script for consi
 - This project was developed for academic and demonstration purposes.
 - Special thanks to the OpenCV, Dlib, and Streamlit communities for providing powerful tools and resources.
 - Inspired by real-world driver safety challenges and applications in transportation.
-# driver-drowsiness-detection
+
